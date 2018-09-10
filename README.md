@@ -29,6 +29,7 @@ We can use workspaces feature(yarn) with or without Lerna. When both `yarn` and 
 
 ## What this github does ## 
 
-Basically to serve as a POC with lerna and yarn. There a currently two branches `@lerna` and `@lerna-yarn-workspaces`.
+Basically to serve as a POC with lerna and yarn. There a currently three branches `@lerna`, `@lerna-yarn-workspaces` and `@yarn-workspaces` respectively.
 1. being purely Lerna as a start point following this [mediumn article](https://codeburst.io/monorepos-by-example-part-1-3a883b49047e) on how to manage monorepos.
 2. a combination on how to use yarn with lerna. Not sure if I'm comfortable with this.
+3. is a pure yarn workspace exploration and example project to understand what yarn-workspaces are and how to work with them
