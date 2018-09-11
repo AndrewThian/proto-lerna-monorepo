@@ -24,6 +24,10 @@ Option 3:
 - Edit target package.json, removing dependency directly.
 - Run `lerna bootstrap` in the root of the monorepo.
 
+## Conlusion ##
+
+__TO HOIST OR NOT TO HOIST ???__
+
 ## References ##
 
 lerna's author comments on how to [add/remove](https://github.com/lerna/lerna/issues/1229#issuecomment-360575720) external dependencies
