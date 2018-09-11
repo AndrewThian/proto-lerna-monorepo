@@ -1,0 +1,8 @@
+{
+  "name": "learn-a",
+  "version": "1.0.0",
+  "description": "Just using `lerna` for monorepos. We globally install `lerna` with yarn(*to lead into the yarn-workspaces usage*)",
+  "devDependencies": {
+    "lerna": "^3.3.0"
+  }
+}
