@@ -24,6 +24,10 @@ Option 3:
 - Edit target package.json, removing dependency directly.
 - Run `lerna bootstrap` in the root of the monorepo.
 
+## Running tests with `lerna` ##
+
+We'll be running `jest` with our lerna repo. I suggest before trying to dive into the `jest` branch of the repo, you head over to the other [example](https://github.com/AndrewThian/proto-jest) to familiarize yourself with `jest` and how to implement it.
+
 ## Conlusion ##
 
 __TO HOIST OR NOT TO HOIST ???__

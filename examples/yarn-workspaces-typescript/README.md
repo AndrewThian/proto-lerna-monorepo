@@ -158,3 +158,9 @@ We have compiler options to compile into modules using `commonjs` and the module
 ## Conclusion ##
 
 This implementation is very suited for server side code base but unfortunately we need some sort of bundler/rollup for our front-end codebase.
+
+## References ##
+
+Ben awad's youtube [video](https://www.youtube.com/watch?v=EoqzOEZIzhg) for typescript with yarn workspace
+
+Respective [github](https://github.com/benawad/typescript-yarn-workspace-example) accompanying the video
